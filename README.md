@@ -121,3 +121,8 @@ this data of datas and title just like this:
 ## Multi row selection
 
 ![多选](http://img.blog.csdn.net/20171101152145069?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMDYyNDk4Ng==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+## Run Demo
+
+- npm install
+- npm run dev
