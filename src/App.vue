@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    哈哈
     <picker :datas="datas" :title="title" @child-info="get"></picker>
   </div>
 </template>

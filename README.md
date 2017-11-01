@@ -5,6 +5,7 @@
 ## Usage
 
     npm install vue-mobile-picker -S
+	npm install better-picker --save-dev
 
 ## How to use?
 
@@ -15,7 +16,7 @@ You can import the whole package or each module individual.
 
 create one you component
 
-	<vue-mobile-picker :datas="datas" :title="title" @child-info="get"></vue-mobile-picker>
+	<picker :datas="datas" :title="title" @child-info="get"></picker>
 
 this data of datas and title just like this:
 
