@@ -20,12 +20,10 @@ create one you component
 this data of datas and title just like this:
 
 
-| Name        | Type           |Necessary|Desc
-| ------------- |:-------------:
-| datas      | Array |    Yes|	It's a two dimensional array
-| title      | String  |   No | this picker's title
-
-
+| Name        | Type           | Necessary  |Desc|
+| ------------- |:-------------:| -----:| -----:|
+| datas     | Array | Yes |It's a two dimensional |
+| title      | String      |   No |this picker's title |
 
 	datas:[
             [
